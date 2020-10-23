@@ -1,0 +1,255 @@
+C:\Users\maanr\source\repos\proyecto02\bin\proyecto02.dll.config
+C:\Users\maanr\source\repos\proyecto02\bin\proyecto02.dll
+C:\Users\maanr\source\repos\proyecto02\bin\proyecto02.pdb
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\csc.exe
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\csc.exe.config
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\csc.rsp
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\csi.exe
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\csi.exe.config
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\csi.rsp
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.AppContext.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Console.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.IO.Compression.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Net.Http.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.ValueTuple.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\vbc.exe
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\vbc.exe.config
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\vbc.rsp
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\VBCSCompiler.exe
+C:\Users\maanr\source\repos\proyecto02\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maanr\source\repos\proyecto02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maanr\source\repos\proyecto02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maanr\source\repos\proyecto02\obj\Debug\proyecto02.csprojAssemblyReference.cache
+C:\Users\maanr\source\repos\proyecto02\obj\Debug\proyecto02.csproj.CoreCompileInputs.cache
+C:\Users\maanr\source\repos\proyecto02\obj\Debug\proyecto02.csproj.CopyComplete
+C:\Users\maanr\source\repos\proyecto02\obj\Debug\proyecto02.dll
+C:\Users\maanr\source\repos\proyecto02\obj\Debug\proyecto02.pdb
+C:\Users\maanr\Documents\proyecto02\bin\proyecto02.dll.config
+C:\Users\maanr\Documents\proyecto02\bin\proyecto02.dll
+C:\Users\maanr\Documents\proyecto02\bin\proyecto02.pdb
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\csc.exe
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\csc.exe.config
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\csc.rsp
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\csi.exe
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\csi.exe.config
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\csi.rsp
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.AppContext.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Console.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.IO.Compression.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Net.Http.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.ValueTuple.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\vbc.exe
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\vbc.exe.config
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\vbc.rsp
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\VBCSCompiler.exe
+C:\Users\maanr\Documents\proyecto02\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maanr\Documents\proyecto02\bin\EntityFramework.dll
+C:\Users\maanr\Documents\proyecto02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maanr\Documents\proyecto02\bin\EntityFramework.xml
+C:\Users\maanr\Documents\proyecto02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maanr\Documents\proyecto02\obj\Debug\proyecto02.csprojAssemblyReference.cache
+C:\Users\maanr\Documents\proyecto02\obj\Debug\proyecto02.csproj.CoreCompileInputs.cache
+C:\Users\maanr\Documents\proyecto02\obj\Debug\proyecto02.csproj.CopyComplete
+C:\Users\maanr\Documents\proyecto02\obj\Debug\proyecto02.dll
+C:\Users\maanr\Documents\proyecto02\obj\Debug\proyecto02.pdb
+C:\Users\maanr\Desktop\proyecto02\obj\Debug\proyecto02.csprojAssemblyReference.cache
+C:\Users\maanr\Desktop\proyecto02\obj\Debug\proyecto02.csproj.CoreCompileInputs.cache
+C:\Users\maanr\Desktop\proyecto02\obj\Debug\proyecto02.dll
+C:\Users\maanr\Desktop\proyecto02\obj\Debug\proyecto02.pdb
+C:\Users\maanr\Desktop\proyecto02\bin\proyecto02.dll.config
+C:\Users\maanr\Desktop\proyecto02\bin\proyecto02.dll
+C:\Users\maanr\Desktop\proyecto02\bin\proyecto02.pdb
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\csc.exe
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\csc.exe.config
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\csc.rsp
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\csi.exe
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\csi.exe.config
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\csi.rsp
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.AppContext.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Console.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.IO.Compression.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Net.Http.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.ValueTuple.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\vbc.exe
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\vbc.exe.config
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\vbc.rsp
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\VBCSCompiler.exe
+C:\Users\maanr\Desktop\proyecto02\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maanr\Desktop\proyecto02\bin\EntityFramework.dll
+C:\Users\maanr\Desktop\proyecto02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maanr\Desktop\proyecto02\bin\EntityFramework.xml
+C:\Users\maanr\Desktop\proyecto02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maanr\Desktop\proyecto02\obj\Debug\proyecto02.csproj.CopyComplete
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\obj\Debug\proyecto02.csprojAssemblyReference.cache
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\obj\Debug\proyecto02.csproj.CoreCompileInputs.cache
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\obj\Debug\proyecto02.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\obj\Debug\proyecto02.pdb
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\proyecto02.dll.config
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\proyecto02.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\proyecto02.pdb
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\csc.exe
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\csc.exe.config
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\csc.rsp
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\csi.exe
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\csi.exe.config
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\csi.rsp
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.AppContext.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Console.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.IO.Compression.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Net.Http.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.ValueTuple.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\vbc.exe
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\vbc.exe.config
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\vbc.rsp
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\VBCSCompiler.exe
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\EntityFramework.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\EntityFramework.xml
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maanr\Pictures\proyecto\usuarios, insertar y eliminar y busqueda\proyecto02\obj\Debug\proyecto02.csproj.CopyComplete
+C:\Users\maanr\Desktop\proyecto02\bin\BouncyCastle.Crypto.dll
+C:\Users\maanr\Desktop\proyecto02\bin\itextsharp.dll
+C:\Users\maanr\Desktop\proyecto02\bin\itextsharp.xml
+C:\Users\maanr\Desktop\proyecto02\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\maanr\Desktop\proyecto02\bin\NPOI.dll
+C:\Users\maanr\Desktop\proyecto02\bin\NPOI.OOXML.dll
+C:\Users\maanr\Desktop\proyecto02\bin\NPOI.OpenXml4Net.dll
+C:\Users\maanr\Desktop\proyecto02\bin\NPOI.OpenXmlFormats.dll
+C:\Users\maanr\Desktop\proyecto02\bin\BouncyCastle.Crypto.xml
+C:\Users\maanr\Desktop\proyecto02\bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\maanr\Desktop\proyecto02\bin\ICSharpCode.SharpZipLib.xml
+C:\Users\maanr\Desktop\proyecto02\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maanr\Desktop\proyecto02\bin\System.Runtime.CompilerServices.Unsafe.xml
